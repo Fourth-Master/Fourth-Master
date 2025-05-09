@@ -1,7 +1,7 @@
 ## Hi, I'm Fourth-Master 👋
   <h3>📔我的博客</h3>
   <a href="https://blog.soeg.cn">
-    <img src="https://blog.soeg.cn/wp-content/themes/CoreNext/static/img/logo.png" style="width: 200px; height: 80px;" alt="我的博客图片"/>
+    <img src="https://blog.soeg.cn/wp-content/themes/CoreNext/static/img/logo.png" alt="我的博客图片"/>
   </a>
 
   <h3>💻 GitHub档案</h3>

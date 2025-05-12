@@ -1,4 +1,4 @@
-![](./.src/header_.png)
+![](./header_.png)
 
 ## Hi, I'm Fourth Master 👋
   <h3>📔我的博客</h3>

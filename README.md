@@ -1,4 +1,4 @@
-## Hi, I'm Fourth-Master 👋
+## Hi, I'm Fourth Master 👋
   <h3>📔我的博客</h3>
   <a href="https://blog.soeg.cn">
     <img src="https://blog.soeg.cn/wp-content/themes/CoreNext/static/img/logo.png" style="width: 220px;" alt="我的博客图片"/>

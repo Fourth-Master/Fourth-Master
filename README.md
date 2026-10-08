@@ -21,4 +21,4 @@
 
   <h3>❤️ 公益服务</h3>
   <h4>35短链：<a href="https://883588.xyz">https://883588.xyz</a></h4>
-  <h4>联想Rom网盘：<a href="https://pan.883588.xyz">https://883588.xyz</a>多网盘链接自助提取</h4>
+  <h4>联想Rom网盘：<a href="https://pan.883588.xyz">https://pan.883588.xyz</a>多网盘链接自助提取</h4>
